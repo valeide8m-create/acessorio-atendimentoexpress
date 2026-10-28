@@ -1,0 +1,22 @@
+SITE — MARIA EDUARDA | MODA & ACESSÓRIOS
+==========================================
+
+Arquivos:
+- index.html: página principal de uma página só
+- sobre.html: página institucional Sobre
+- politica-de-privacidade.html: política de privacidade
+- termos-de-uso.html: termos de uso
+- assets/style.css: identidade visual e responsividade
+- assets/: cinco imagens enviadas pelo cliente
+
+Como visualizar:
+1. Extraia o arquivo ZIP.
+2. Abra index.html no navegador. Para publicar, envie toda a pasta preservando a estrutura.
+3. Bootstrap e Bootstrap Icons são carregados por CDN; fontes também são carregadas do Google Fonts.
+
+Antes de publicar:
+- Confirme os dados cadastrais, endereço, telefone e e-mail.
+- A política de privacidade é um modelo que deve corresponder às práticas reais, especialmente se ativar Google Ads, Analytics, cookies ou remarketing.
+- Se for usar Google Ads, instale apenas tags realmente necessárias e configure o consentimento/cookies conforme o público e a legislação aplicável.
+- As imagens são ilustrativas; confirme que você tem autorização para utilizá-las comercialmente.
+- Confira as políticas atuais do Google Ads e a página de destino antes de enviar anúncios.
